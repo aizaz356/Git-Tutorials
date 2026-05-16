@@ -1,2 +1,2 @@
-utility function for versions  video 6 -- good one
+utility function for versions  video 6 -- good one       
 
